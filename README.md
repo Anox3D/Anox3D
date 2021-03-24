@@ -10,7 +10,7 @@ Salut, je suis [@Anox3D](https://github.com/Anox3D), je suis intéressé dans à
 
 Je peux également accepter les demandes de collaboration, mais je ne suis pas très expérimenté, je suis juste bon en HTML et Node.js (spécialement les bots Discord).
 
-Eh bien... à plus, checkez mes repositories si vous voulez (de l'aide est très appréciée pour les choses que j'ai raté).
+Eh bien... à plus, checkez mes repositories si vous voulez (l'aide est très appréciée pour les choses que j'ai raté).
 
 <!---
 Anox3D/Anox3D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
