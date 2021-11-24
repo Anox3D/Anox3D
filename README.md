@@ -4,7 +4,7 @@ I can also accept collaboration requests, but I'm not very experimented, I'm jus
 
 Well... bye, check my repositories if you want (help is really appreciated for things I failed).
 
-### \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Salut, je suis [@Anox3D](https://github.com/Anox3D), je suis intéressé dans à peu près tous les langages de code, le graphisme et plein d'autres choses. Actuellement, j'apprends le C et le C++, j'essaye aussi de faire des trucs dans d'autres langages. Si vous voulez me contacter vous pouvez le faire par Discord en m'envoyant une demande d'ami à ce tag : Anox3D#9720 ou rejoindre mon serveur : https://discord.gg/D3Xk7r6Hda.
 
